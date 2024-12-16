@@ -10,7 +10,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.13.2",
     "parcel": "^2.13.2",
